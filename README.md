@@ -19,4 +19,6 @@ Hi, I’m Barani — a developer building web apps and command-line tools. I cre
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=baranithedev&layout=compact&theme=dark)
 
+[![baranithedev's LeetCode Stats](https://coding-profile.vercel.app/api?username=baranithedev&theme=Raspberry)](https://github.com/Pranshu321/coding-profiles)
+
 </div>
